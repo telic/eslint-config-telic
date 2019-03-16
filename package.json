@@ -1,0 +1,18 @@
+{
+  "name": "eslint-config-telic",
+  "version": "1.0.0",
+  "description": "An eslint configuration preset that I tend to use for my Vue development",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telic/eslint-config-telic.git"
+  },
+  "author": "Maxwell Terpstra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/telic/eslint-config-telic/issues"
+  },
+  "homepage": "https://github.com/telic/eslint-config-telic#readme"
+}
